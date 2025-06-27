@@ -24,6 +24,8 @@ contributor:
   schemaKey: Person
 - awardNumber: 1R21EY034258
   name: National Institutes of Health
+  roleName:
+  - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-06-27T15:52:32.136569+00:00'
 description: This experimental series investigated the plasma membrane polarization

@@ -22,7 +22,7 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
-- awardNumber: 1R21EY034258
+- awardNumber: 5R21EY034803
   name: National Institutes of Health
   roleName:
   - dcite:Funder
@@ -47,4 +47,8 @@ schemaKey: Dandiset
 schemaVersion: 0.6.10
 url: https://dandiarchive.org/dandiset/001515/draft
 version: draft
-wasGeneratedBy: []
+wasGeneratedBy:
+- description: Next Gen Temporal Interference Stimulation Non-Invasive Neuromodulation
+  identifier: 5R21EY034803
+  name: Next Gen Temporal Interference Stimulation Non-Invasive Neuromodulation
+  schemaKey: Project

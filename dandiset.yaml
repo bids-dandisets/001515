@@ -8,9 +8,21 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 1640256414
+  numberOfFiles: 64
+  numberOfSubjects: 8
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10029
+    name: Cricetulus griseus - Cricetulus aureus
+    schemaKey: SpeciesType
+  variableMeasured: []
 citation: 'Silkuniene, Giedre (2025) Plasma Membrane Polarization Dynamics of CHO
   Cells During 1 us Pulses: Effects of Cell Size and Electric Field Strength (Version
   draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001515/draft'
